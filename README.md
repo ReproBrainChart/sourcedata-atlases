@@ -24,7 +24,7 @@ timeseries_extraction:
     /ndmg_atlases/label/Human/Yeo-7_space-MNI152NLin6_res-2x2x2.nii.gz: Avg
 ```
 
-These atlases are collected here along with [tabular files](https://bids-specification.readthedocs.io/en/stable/common-principles.html#tabular-files) listing the <span title="region of interest">ROI</span> labels and metadata from the atlas' respective sources in the configuration.
+These atlases are collected here along with [tabular files](https://bids-specification.readthedocs.io/en/stable/common-principles.html#tabular-files) listing the <span title="region of interest">ROI</span> labels and metadata from the atlas' respective sources in the configuration (please see the original atlas' respective sources for individual licenses).
 
 | source in configuration | filename |
 | --- | --- |
